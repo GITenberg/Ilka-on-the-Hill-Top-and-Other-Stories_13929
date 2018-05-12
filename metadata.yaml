@@ -1,0 +1,30 @@
+_repo: Ilka-on-the-Hill-Top-and-Other-Stories_13929
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+description: ''
+gutenberg_issued: '2004-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Ilka on the hill-top -- Annunciata -- Under the glacier -- A knight
+  of Dannebrog -- Mabel and I (a philosophical fairy tale) -- How Mr. Storm met his
+  destiny.
+title: Ilka on the Hill-Top and Other Stories
+url: http://www.gutenberg.org/ebooks/13929
